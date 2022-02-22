@@ -1,7 +1,7 @@
 # Jap-n
 Pagina tematizada de Japón
 
-## Link: ismola-japan.netlify.app
+## Link: https://ismola-japan.netlify.app/
 
 ### Diseño
 
